@@ -67,7 +67,7 @@ public class Formulario1 extends javax.swing.JFrame {
                 .addGap(18, 18, 18)
                 .addComponent(jButton1)
                 .addContainerGap(108, Short.MAX_VALUE))
-        );
+        );x
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
